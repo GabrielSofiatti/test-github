@@ -61,3 +61,8 @@ para enviar os arquivos de uma branch para a main (ou para outra):
 ```
 git merge <nome-da-branch>
 ```
+
+para fazer o GIT ignorar um arquivo:
+```
+criar um arquivo <.gitignore>  e adicionar o nome do arquivo a ser ignorado dentro dele.
+```
