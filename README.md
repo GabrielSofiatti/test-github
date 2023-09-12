@@ -7,4 +7,5 @@ para começar a escrever o readme, faça:
 ```
 Teste aqui
 Teste ali
+Teste cá
 ```
