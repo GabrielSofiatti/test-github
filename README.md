@@ -12,6 +12,11 @@ para ver se o repositório possui arquivos novos:
 git status
 ```
 
+para checar os processos do git / ou resumidamente de linha por linha: 
+```
+git log || git log --oneline
+```
+
 para atualizar apenas arquivos novos:
 ```
 git pull <link-do-repo>
