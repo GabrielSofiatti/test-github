@@ -1,11 +1,15 @@
-# TESTE TÍTULO
+# Aprendendo Git/Github
 
 >sub título: em desenvolvimento
 
-para começar a escrever o readme, faça:
+para clonar um repositório:
 
 ```
-Teste aqui
-Teste ali
-Teste cá
+git clone 'link do repo'
+```
+
+para atualizar apenas arquivos novos:
+
+```
+git pull 'link do repo'
 ```
