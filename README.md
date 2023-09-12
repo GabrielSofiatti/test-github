@@ -2,7 +2,7 @@
 
 >sub título: em desenvolvimento
 
-para clonar um repositório:
+para clonar um repositório :
 
 ```
 git clone 'link do repo'
