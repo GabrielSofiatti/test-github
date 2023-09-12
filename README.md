@@ -19,7 +19,7 @@ git pull <link-do-repo>
 
 para adicionar um arquivo:
 ```
- git add . ||git add <nome-do-arquivo>
+ git add . || git add <nome-do-arquivo>
 ```
 
 para commitar as minhas alterações via comando:
@@ -42,7 +42,17 @@ para criar uma branch:
 git checkout -b <nome-da-branch>
 ```
 
+para checkar as branchs existentes:
+```
+git branch
+```
+
 para trocar de branch:
 ```
 git switch <nome-da-branch>
+```
+
+para enviar os arquivos de uma branch para a main (ou para outra):
+```
+git merge <nome-da-branch>
 ```
